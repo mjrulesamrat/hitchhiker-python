@@ -1,6 +1,6 @@
 # Lesson 1 / Whitespace
 
-## Taks
+## Tasks
 - Learning the importance of whitespace in Python
 
 ## Get Started

@@ -1,10 +1,10 @@
 # Lesson 1 / Booleans
 
-## Taks
+## Tasks
 - Learning how to create varaible in Python
 
 ## Get Started
-A second data type is called a boolean. A boolean is like a light switch. It can only have two values. Just like a light switch can only be on or off, a boolean can only be `True` or `False`.
+The next data type is boolean which is like a light switch. It can only have two values. Just like a light switch can only be on or off, a boolean can only be `True` or `False`.
 
 1. Create a file `variables.py` with the following content
 ```py

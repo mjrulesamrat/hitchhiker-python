@@ -1,6 +1,6 @@
 # Lesson 1 / Comments
 
-## Taks
+## Tasks
 - Learning single line and multiline comments in Python
 
 ## Get Started

@@ -7,7 +7,7 @@ So far we have learned about:
 - **Arithmetic operations**, including `+`, `-`, `*`, `/`, `**`, and `%`
 
 ## Let's put our knowledge to work
-Create a file with .py extenssion and
+Create a file with .py extension and
 - Write a single-line comment on line 1. It can be anything! (Make sure it starts with `#`)
 - Set the variable `monty` equal to `True`.
 - Set another variable `python` equal to `1.234`.

@@ -1,6 +1,6 @@
 # Lesson 1 / Variables
 
-## Taks
+## Tasks
 - Learning how to create varaible in Python
 
 ## Get Started

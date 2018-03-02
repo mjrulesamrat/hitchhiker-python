@@ -1,6 +1,6 @@
 # Lesson 1 / Hello World
 
-## Taks
+## Tasks
 - Print "hello world" to console using python
 
 ## Prerequisites
